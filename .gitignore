@@ -66,3 +66,12 @@ DerivedDataCache/*
 *.swp
 *.swo
 .ctrlp_cache/
+*.ini
+*.bin
+*.ini
+*.log
+*.log
+*.ini
+*.bin
+*.log
+*.png
